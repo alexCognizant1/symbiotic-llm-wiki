@@ -5,8 +5,9 @@ Master catalog of the symbiotic LLM Wiki.
 ## Concepts & Theories
 
 - [[Monad]]
-- [[Adjunction]]
-- [[Natural Transformation]]
+- [[Adjunction]] (with tutorial)
+- [[Functor]]
+- [[NaturalTransformation]]
 - [[Agent Memory Patterns]]
 
 ## Entities
