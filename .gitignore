@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins
+.obsidian/themes
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.swp
