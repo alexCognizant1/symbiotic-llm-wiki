@@ -33,8 +33,9 @@ It is about **symbiosis**:
 - [ARCHITECTURE.md](ARCHITECTURE.md) — Full layered architecture
 - [RIGOR-SPECTRUM.md](RIGOR-SPECTRUM.md) — Multi-level formalization approach (including Lean/Agda)
 - [WIKI-PROTOCOL.md](WIKI-PROTOCOL.md) — The living schema / instructions for agents
-- Category Theory tutorials in `wiki/concepts/`:
-  - [[Adjunction]] (main tutorial with examples for this project)
+- **Category Theory tutorials** (highly recommended for assimilation):
+  - [[Category-Theory-Tutorial]] — Comprehensive hands-on tutorial with exercises, analogies, and project-specific examples
+  - [[Adjunction]] (main tutorial)
   - [[Functor]]
   - [[NaturalTransformation]]
 - [DIRECTORY-STRUCTURE.md](DIRECTORY-STRUCTURE.md) — Recommended layout

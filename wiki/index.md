@@ -10,6 +10,10 @@ Master catalog of the symbiotic LLM Wiki.
 - [[NaturalTransformation]]
 - [[Agent Memory Patterns]]
 
+## Tutorials
+
+- [[Category-Theory-Tutorial]] — Hands-on assimilation tutorial with exercises and project examples
+
 ## Entities
 
 - [[Lean 4]]

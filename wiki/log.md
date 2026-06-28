@@ -22,3 +22,15 @@ Created formal sketch: formal/category-theory/Adjunction.lean
 
 Tied concepts to the symbiotic wiki structure (wikilinks as morphisms, free/forgetful flavor of raw → wiki, etc.).
 
+## [2026-06-28] tutorial | Comprehensive Category Theory Assimilation Tutorial
+
+Added dedicated tutorial:
+- [[Category-Theory-Tutorial]]
+
+Strongly assimilation-focused with:
+- Progressive concepts (Category → Functor → Natural Transformation → Adjunction → Monad)
+- Concrete examples from FP, Agentic AI, Mendix, and the wiki itself
+- Obsidian-specific exercises (Canvas, wikilinks as morphisms)
+- Self-referential interpretation of the entire knowledge system
+- Hands-on assimilation program (Week 1 & Week 2 activities)
+
